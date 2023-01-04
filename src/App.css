@@ -16,13 +16,14 @@ button:active{
   justify-content: center;
   align-items: center;
   flex-direction: column;
+ 
 }
 
 .Menu {
   width: 500px;
   height: 500px;
   border-radius: 10px;
-  background-color: lightseagreen;
+  background-color:#97BC62FF;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -46,7 +47,7 @@ button:hover {
   width: 500px;
   height: 500px;
   border-radius: 10px;
-  background-color: lightseagreen;
+  background-color: #97BC62FF;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -61,7 +62,7 @@ button:hover {
   width: 500px;
   height: 500px;
   border-radius: 10px;
-  background-color: lightseagreen;
+  background-color:#97BC62FF;
   display: flex;
   flex-direction: column;
   justify-content: center;
